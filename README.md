@@ -1,2 +1,3 @@
 # testrepo
-Test Repository for git commands
+This is a test repo for my random work
+Author: BS
